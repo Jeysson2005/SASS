@@ -1,1 +1,1 @@
-webkitURL
+JSON
